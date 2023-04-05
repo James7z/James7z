@@ -1,8 +1,13 @@
 ### Hi there, I am James Zhou, aka Full stack web software engineer.
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning full stack web development
-- 💬 Ask me about software skills
+
+My projects:
+[MyTodoList](https://my-todo-list-zs7q.onrender.com)
+[JamesAirbnb](https://james-airbnb.onrender.com)
+[Scroll](https://scrollr.onrender.com/)
+- 💬 Ask me about software skills 
 - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/james-zhou-a6584672/)  [Wellfound](https://wellfound.com/u/james-zhou-17)
+- Email: james7.ca@gmail.com
+- My location: Orlando, FL 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music, reading and vedio games
 <!--
