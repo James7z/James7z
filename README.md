@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am James Zhou, aka Full stack web software engineer.
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning full stack web development
 - 💬 Ask me about software skills
