@@ -7,6 +7,7 @@ My projects:
 - 💬 Ask me about software skills 
 - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/james-zhou-a6584672/)  [Wellfound](https://wellfound.com/u/james-zhou-17)
 - Email: james7.ca@gmail.com
+- [My portfolio site](https://james7z.github.io/)
 - My location: Orlando, FL 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music, reading and vedio games
